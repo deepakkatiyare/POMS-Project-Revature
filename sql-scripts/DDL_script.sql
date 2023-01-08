@@ -1,6 +1,6 @@
 -- DDL SCRIPT
 
--- Creating database pizza order management system
+-- Creating database for pizza order management system
 CREATE DATABASE poms;
 USE poms;
 
