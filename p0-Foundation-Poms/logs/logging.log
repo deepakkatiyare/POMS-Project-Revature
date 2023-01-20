@@ -1,0 +1,547 @@
+2023-01-18 22:37:29 INFO  Application:268 - **********WELCOME TO PIZZA STORE**********
+
+
+  2023-01-18 22:37:29 INFO  Application:269 - Press 1 for Pizza
+
+  2023-01-18 22:37:29 INFO  Application:270 - Press 2 for Beverages
+
+  2023-01-18 22:37:29 INFO  Application:271 - Press 3 for Cookie
+
+  2023-01-18 22:38:19 INFO  Application:268 - 
+**********WELCOME TO PIZZA STORE**********
+
+
+  2023-01-18 22:38:19 INFO  Application:269 - Press 1 for Pizza
+
+  2023-01-18 22:38:19 INFO  Application:270 - Press 2 for Beverages
+
+  2023-01-18 22:38:19 INFO  Application:271 - Press 3 for Cookie
+
+  2023-01-18 22:38:41 INFO  Application:268 - 
+
+**********WELCOME TO PIZZA STORE**********
+
+
+  2023-01-18 22:38:41 INFO  Application:269 - Press 1 for Pizza
+
+  2023-01-18 22:38:41 INFO  Application:270 - Press 2 for Beverages
+
+  2023-01-18 22:38:41 INFO  Application:271 - Press 3 for Cookie
+
+  2023-01-18 22:40:23 INFO  Application:268 - 
+
+**********WELCOME TO PIZZA STORE**********
+
+
+  2023-01-18 22:40:23 INFO  Application:269 - \n\nPress 1 for Pizza
+
+  2023-01-18 22:40:23 INFO  Application:270 - \n\nPress 2 for Beverages
+
+  2023-01-18 22:40:23 INFO  Application:271 - \n\nPress 3 for Cookie
+
+  2023-01-18 22:43:23 INFO  Application:268 - 
+
+**********WELCOME TO PIZZA STORE**********
+
+
+  2023-01-18 22:43:23 INFO  Application:269 - 
+
+Press 1 for Pizza
+
+  2023-01-18 22:43:23 INFO  Application:270 - 
+
+Press 2 for Beverages
+
+  2023-01-18 22:43:23 INFO  Application:271 - 
+
+Press 3 for Cookie
+
+  2023-01-18 22:44:00 INFO  ItemMessage:11 - 
+
+*********PIZZA MENU*********
+
+  2023-01-18 22:44:00 INFO  ItemMessage:12 - 
+
+Press 1 to enter Pizza Details
+
+  2023-01-18 22:44:00 INFO  ItemMessage:13 - 
+
+Press 2 to update Pizza Details
+
+  2023-01-18 22:44:00 INFO  ItemMessage:14 - 
+
+Press 3 to delete Pizza Details
+
+  2023-01-18 22:44:00 INFO  ItemMessage:15 - 
+
+Press 4 to select Pizza details
+
+  2023-01-18 22:44:00 INFO  ItemMessage:16 - 
+
+Press 5 to EXIT
+
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 1--mozerrella chilli paneer pizza--regular--veg--100
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 2--mozerrella chilli paneer pizza--medium--veg--125
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 3--mozerrella chilli paneer pizza--large--veg--150
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 4--jalapeno chilli paneer pizza--regular--veg--110
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 5--jalapeno chilli paneer pizza--medium--veg--130
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 6--jalapeno chilli paneer pizza--large--veg--160
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 7--Black Olives chilli paneer pizza--regular--veg--125
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 8--Black Olives chilli paneer pizza--medium--veg--150
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 9--Black Olives chilli paneer pizza--large--veg--200
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 10--Extra Cheese chilli paneer pizza--regular--veg--150
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 11--Extra Cheese chilli paneer pizza--medium--veg--180
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 12--Extra Cheese chilli paneer pizza--large--veg--220
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 13--mozerrella Mexican Green Wave--regular--veg--125
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 14--mozerrella Mexican Green Wave--medium--veg--150
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 15--mozerrella Mexican Green Wave--large--veg--200
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 16--jalapeno Mexican Green Wave--regular--veg--140
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 17--jalapeno Mexican Green Wave--medium--veg--180
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 18--jalapeno Mexican Green Wave--large--veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 19--Black Olives Mexican Green Wave--regular--veg--150
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 20--Black Olives Mexican Green Wave--medium--veg--200
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 21--Black Olives Mexican Green Wave--large--veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 22--Extra Cheese Mexican Green Wave--regular--veg--200
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 23--Extra Cheese Mexican Green Wave--medium--veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 24--Extra Cheese Mexican Green Wave--large--veg--300
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 25--mozerrella Veggie paradise--regular--veg--225
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 26--mozerrella Veggie paradise--medium--veg--275
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 27--mozerrella Veggie paradise--large--veg--325
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 28--jalapeno Veggie paradise--regular--veg--240
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 29--jalapeno Veggie paradise--medium--veg--300
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 30--jalapeno Veggie paradise--large--veg--360
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 31--Black Olives Veggie paradise--regular--veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 32--Black Olives Veggie paradise paradise--medium--veg--320
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 33--Black Olives Veggie paradise paradise--large--veg--380
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 34--Extra Cheese Veggie paradise paradise--regular--veg--300
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 35--Extra Cheese Veggie paradise paradise--medium--veg--350
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 36--Extra Cheese Veggie paradise--large--veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 37--mozerrella Veg Exotic--regular--veg--320
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 38--mozerrella Veg Exotic--medium--veg--360
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 39--mozerrella Veg Exotic--large--veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 40--jalapeno Veg Exotic--regular--veg--340
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 41--jalapeno Veg Exotic--medium--veg--380
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 42--jalapeno Veg Exotic--large--veg--420
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 43--Black Olives Veg Exotic--regular--veg--375
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 44--Black Olives Veg Exotic--medium--veg--410
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 45--Black Olives Veg Exotic--large--veg--450
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 46--Extra Cheese Veg Exotic--regular--veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 47--Extra Cheese Veg Exotic--medium--veg--450
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 48--Extra Cheese Veg Exotic--large--veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 49--mozerrella Peri-Peri Chicken--regular--non-veg--200
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 50--mozerrella Peri-Peri Chicken--medium--non-veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 51--mozerrella Peri-Peri Chicken--large--non-veg--300
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 52--jalapeno Peri-Peri Chicken--regular--non-veg--225
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 53--jalapeno Peri-Peri Chicken--medium--non-veg--275
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 54--jalapeno Peri-Peri Chicken--large--non-veg--325
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 55--Black Olives Peri-Peri Chicken--regular--non-veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 56--Black Olives Peri-Peri Chicken--medium--non-veg--300
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 57--Black Olives Peri-Peri Chicken--large--non-veg--350
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 58--Extra Cheese Peri-Peri Chicken--regular--non-veg--275
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 59--Extra Cheese Peri-Peri Chicken--medium--non-veg--320
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 60--Extra Cheese Peri-Peri Chicken--large--non-veg--360
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 61--mozerrella Chicken Fiesta--regular--non-veg--250
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 62--mozerrella Chicken Fiesta--medium--non-veg--300
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 63--mozerrella Chicken Fiesta--large--non-veg--350
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 64--jalapeno Chicken Fiesta--regular--non-veg--280
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 65--jalapeno Chicken Fiesta--medium--non-veg--320
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 66--jalapeno Chicken Fiesta--large--non-veg--360
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 67--Black Olives Chicken Fiesta--regular--non-veg--320
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 68--Black Olives Chicken Fiesta--medium--non-veg--360
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 69--Black Olives Chicken Fiesta--large--non-veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 70--Extra Cheese Chicken Fiesta--regular--non-veg--350
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 71--Extra Cheese Chicken Fiesta--medium--non-veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 72--Extra Cheese Chicken Fiesta--large--non-veg--450
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 73--mozerrella Smoked Chicken--regular--non-veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 74--mozerrella Smoked Chicken--medium--non-veg--450
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 75--mozerrella Smoked Chicken--large--non-veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 76--jalapeno Smoked Chicken--regular--non-veg--425
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 77--jalapeno Smoked Chicken--medium--non-veg--475
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 78--jalapeno Smoked Chicken--large--non-veg--525
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 79--Black Olives Smoked Chicken--regular--non-veg--450
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 80--Black Olives Smoked Chicken--medium--non-veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 81--Black Olives Smoked Chicken--large--non-veg--550
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 82--Extra Cheese Smoked Chicken--regular--non-veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 83--Extra Cheese Smoked Chicken--medium--non-veg--550
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 84--Extra Cheese Smoked Chicken--large--non-veg--600
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 85--mozerrella Chicken Exotic--regular--non-veg--450
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 86--mozerrella Chicken Exotic--medium--non-veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 87--mozerrella Chicken Exotic--large--non-veg--550
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 88--jalapeno Chicken Exotic--regular--non-veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 89--jalapeno Chicken Exotic--medium--non-veg--550
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 90--jalapeno Chicken Exotic--large--non-veg--600
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 91--Black Olives Chicken Exotic--regular--non-veg--550
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 92--Black Olives Chicken Exotic--medium--non-veg--600
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 93--Black Olives Chicken Exotic--large--non-veg--650
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 94--Extra Cheese Chicken Exotic--regular--non-veg--600
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 95--Extra Cheese Chicken Exotic--medium--non-veg--660
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 96--Extra Cheese Chicken Exotic--large--non-veg--720
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 97--Double Chicken pizza--regular--500--700
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 98--ffsdfsdf--regular--veg--400
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 99--xxl pizza--medium--non veg--500
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 100--matar panner pizza--medium--veg--700
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 101--jgvvhfcjbh--regular--hfchvg--123
+  2023-01-18 22:50:12 INFO  PizzaService:164 - 102--tanduri pizza--medium--veg--350
+  2023-01-18 22:50:12 INFO  Application:53 - if you want to continue 1 otherwise 0
+  2023-01-19 16:59:12 INFO  Application:268 - 
+
+**********WELCOME TO PIZZA STORE**********
+
+
+  2023-01-19 16:59:12 INFO  Application:269 - 
+
+Press 1 for Pizza
+
+  2023-01-19 16:59:12 INFO  Application:270 - 
+
+Press 2 for Beverages
+
+  2023-01-19 16:59:12 INFO  Application:271 - 
+
+Press 3 for Cookie
+
+  2023-01-19 22:57:45 INFO  Application:271 - 
+
+Press 1 for Pizza
+
+  2023-01-19 22:57:45 INFO  Application:272 - 
+
+Press 2 for Beverages
+
+  2023-01-19 22:57:45 INFO  Application:273 - 
+
+Press 3 for Cookie
+
+  2023-01-19 23:01:04 INFO  Application:271 - 
+
+Press 1 for Pizza
+
+  2023-01-19 23:01:04 INFO  Application:272 - 
+
+Press 2 for Beverages
+
+  2023-01-19 23:01:04 INFO  Application:273 - 
+
+Press 3 for Cookie
+
+  2023-01-19 23:18:17 INFO  Application:276 - 
+
+Press 1 for Pizza
+
+  2023-01-19 23:18:17 INFO  Application:277 - 
+
+Press 2 for Beverages
+
+  2023-01-19 23:18:17 INFO  Application:278 - 
+
+Press 3 for Cookie
+
+  2023-01-19 23:19:30 INFO  Application:276 - 
+
+Press 1 for Pizza
+
+  2023-01-19 23:19:30 INFO  Application:277 - 
+
+Press 2 for Beverages
+
+  2023-01-19 23:19:30 INFO  Application:278 - 
+
+Press 3 for Cookie
+
+  2023-01-19 23:20:49 INFO  Application:276 - Press 1 for Pizza
+  2023-01-19 23:20:49 INFO  Application:277 - Press 2 for Beverages
+  2023-01-19 23:20:49 INFO  Application:278 - Press 3 for Cookie
+  2023-01-19 23:21:21 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-19 23:21:21 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-19 23:21:21 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-19 23:21:21 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-19 23:21:21 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-19 23:21:21 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-19 23:21:30 INFO  Application:276 - Press 1 for Pizza
+  2023-01-19 23:21:30 INFO  Application:277 - Press 2 for Beverages
+  2023-01-19 23:21:30 INFO  Application:278 - Press 3 for Cookie
+  2023-01-19 23:21:33 INFO  ItemMessage:22 - *********BEVERAGE MENU*********
+  2023-01-19 23:21:33 INFO  ItemMessage:23 - Press 1 to enter Beverage Details
+  2023-01-19 23:21:33 INFO  ItemMessage:24 - Press 2 to update Beverage Details
+  2023-01-19 23:21:33 INFO  ItemMessage:25 - Press 3 to delete Beverage Details
+  2023-01-19 23:21:33 INFO  ItemMessage:26 - Press 4 to select Beverage details
+  2023-01-19 23:21:33 INFO  ItemMessage:27 - Press 5 to EXIT
+  2023-01-19 23:21:44 INFO  Application:276 - Press 1 for Pizza
+  2023-01-19 23:21:44 INFO  Application:277 - Press 2 for Beverages
+  2023-01-19 23:21:44 INFO  Application:278 - Press 3 for Cookie
+  2023-01-19 23:21:47 INFO  ItemMessage:33 - *********COOKIE MENU*********
+  2023-01-19 23:21:47 INFO  ItemMessage:34 - Press 1 to enter Cookie Details
+  2023-01-19 23:21:47 INFO  ItemMessage:35 - Press 2 to update Cookie Details
+  2023-01-19 23:21:47 INFO  ItemMessage:36 - Press 3 to delete Cookie Details
+  2023-01-19 23:21:47 INFO  ItemMessage:37 - Press 4 to select Cookie details
+  2023-01-19 23:21:47 INFO  ItemMessage:38 - Press 5 to EXIT
+  2023-01-19 23:21:53 INFO  Application:276 - Press 1 for Pizza
+  2023-01-19 23:21:53 INFO  Application:277 - Press 2 for Beverages
+  2023-01-19 23:21:53 INFO  Application:278 - Press 3 for Cookie
+  2023-01-19 23:25:39 INFO  Application:270 - Press 1 for Pizza
+  2023-01-19 23:25:39 INFO  Application:271 - Press 2 for Beverages
+  2023-01-19 23:25:39 INFO  Application:272 - Press 3 for Cookie
+  2023-01-19 23:25:44 INFO  Application:270 - Press 1 for Pizza
+  2023-01-19 23:25:44 INFO  Application:271 - Press 2 for Beverages
+  2023-01-19 23:25:44 INFO  Application:272 - Press 3 for Cookie
+  2023-01-20 01:30:54 INFO  Application:271 - Press 1 for Pizza
+  2023-01-20 01:30:54 INFO  Application:272 - Press 2 for Beverages
+  2023-01-20 01:30:54 INFO  Application:273 - Press 3 for Cookie
+  2023-01-20 01:34:23 INFO  Application:271 - Press 1 for Pizza
+  2023-01-20 01:34:23 INFO  Application:272 - Press 2 for Beverages
+  2023-01-20 01:34:23 INFO  Application:273 - Press 3 for Cookie
+  2023-01-20 01:37:08 INFO  Application:271 - Press 1 for Pizza
+  2023-01-20 01:37:08 INFO  Application:272 - Press 2 for Beverages
+  2023-01-20 01:37:08 INFO  Application:273 - Press 3 for Cookie
+  2023-01-20 01:52:42 INFO  Application:271 - Press 1 for Pizza
+  2023-01-20 01:52:42 INFO  Application:272 - Press 2 for Beverages
+  2023-01-20 01:52:42 INFO  Application:273 - Press 3 for Cookie
+  2023-01-20 01:52:44 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 01:52:44 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 01:52:44 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 01:52:44 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 01:52:44 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 01:52:44 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 01:52:47 INFO  Application:257 - Enter Pizza Id:
+  2023-01-20 01:56:32 INFO  Application:265 - Press 1 for Pizza
+  2023-01-20 01:56:32 INFO  Application:266 - Press 2 for Beverages
+  2023-01-20 01:56:32 INFO  Application:267 - Press 3 for Cookie
+  2023-01-20 01:56:34 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 01:56:34 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 01:56:34 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 01:56:34 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 01:56:34 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 01:56:34 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 01:56:36 INFO  Application:253 - Enter Pizza Category: Veg/Non-veg
+  2023-01-20 01:56:40 INFO  Application:255 - Enter Pizza price:
+  2023-01-20 01:56:43 INFO  Application:257 - Enter Pizza Name: 
+  2023-01-20 01:56:47 INFO  Application:259 - Enter Pizza Size: Regular/Medium/Large
+  2023-01-20 01:56:52 INFO  PizzaService:36 - Inserted successfully 
+  2023-01-20 01:56:52 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 01:56:55 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 01:56:55 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 01:56:55 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 01:56:55 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 01:56:55 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 01:56:55 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 1--mozerrella chilli paneer pizza--regular--veg--100
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 2--mozerrella chilli paneer pizza--medium--veg--125
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 3--mozerrella chilli paneer pizza--large--veg--150
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 4--jalapeno chilli paneer pizza--regular--veg--110
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 5--jalapeno chilli paneer pizza--medium--veg--130
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 6--jalapeno chilli paneer pizza--large--veg--160
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 7--Black Olives chilli paneer pizza--regular--veg--125
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 8--Black Olives chilli paneer pizza--medium--veg--150
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 9--Black Olives chilli paneer pizza--large--veg--200
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 10--Extra Cheese chilli paneer pizza--regular--veg--150
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 11--Extra Cheese chilli paneer pizza--medium--veg--180
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 12--Extra Cheese chilli paneer pizza--large--veg--220
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 13--mozerrella Mexican Green Wave--regular--veg--125
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 14--mozerrella Mexican Green Wave--medium--veg--150
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 15--mozerrella Mexican Green Wave--large--veg--200
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 16--jalapeno Mexican Green Wave--regular--veg--140
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 17--jalapeno Mexican Green Wave--medium--veg--180
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 18--jalapeno Mexican Green Wave--large--veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 19--Black Olives Mexican Green Wave--regular--veg--150
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 20--Black Olives Mexican Green Wave--medium--veg--200
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 21--Black Olives Mexican Green Wave--large--veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 22--Extra Cheese Mexican Green Wave--regular--veg--200
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 23--Extra Cheese Mexican Green Wave--medium--veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 24--Extra Cheese Mexican Green Wave--large--veg--300
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 25--mozerrella Veggie paradise--regular--veg--225
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 26--mozerrella Veggie paradise--medium--veg--275
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 27--mozerrella Veggie paradise--large--veg--325
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 28--jalapeno Veggie paradise--regular--veg--240
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 29--jalapeno Veggie paradise--medium--veg--300
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 30--jalapeno Veggie paradise--large--veg--360
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 31--Black Olives Veggie paradise--regular--veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 32--Black Olives Veggie paradise paradise--medium--veg--320
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 33--Black Olives Veggie paradise paradise--large--veg--380
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 34--Extra Cheese Veggie paradise paradise--regular--veg--300
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 35--Extra Cheese Veggie paradise paradise--medium--veg--350
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 36--Extra Cheese Veggie paradise--large--veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 37--mozerrella Veg Exotic--regular--veg--320
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 38--mozerrella Veg Exotic--medium--veg--360
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 39--mozerrella Veg Exotic--large--veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 40--jalapeno Veg Exotic--regular--veg--340
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 41--jalapeno Veg Exotic--medium--veg--380
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 42--jalapeno Veg Exotic--large--veg--420
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 43--Black Olives Veg Exotic--regular--veg--375
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 44--Black Olives Veg Exotic--medium--veg--410
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 45--Black Olives Veg Exotic--large--veg--450
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 46--Extra Cheese Veg Exotic--regular--veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 47--Extra Cheese Veg Exotic--medium--veg--450
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 48--Extra Cheese Veg Exotic--large--veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 49--mozerrella Peri-Peri Chicken--regular--non-veg--200
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 50--mozerrella Peri-Peri Chicken--medium--non-veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 51--mozerrella Peri-Peri Chicken--large--non-veg--300
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 52--jalapeno Peri-Peri Chicken--regular--non-veg--225
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 53--jalapeno Peri-Peri Chicken--medium--non-veg--275
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 54--jalapeno Peri-Peri Chicken--large--non-veg--325
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 55--Black Olives Peri-Peri Chicken--regular--non-veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 56--Black Olives Peri-Peri Chicken--medium--non-veg--300
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 57--Black Olives Peri-Peri Chicken--large--non-veg--350
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 58--Extra Cheese Peri-Peri Chicken--regular--non-veg--275
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 59--Extra Cheese Peri-Peri Chicken--medium--non-veg--320
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 60--Extra Cheese Peri-Peri Chicken--large--non-veg--360
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 61--mozerrella Chicken Fiesta--regular--non-veg--250
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 62--mozerrella Chicken Fiesta--medium--non-veg--300
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 63--mozerrella Chicken Fiesta--large--non-veg--350
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 64--jalapeno Chicken Fiesta--regular--non-veg--280
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 65--jalapeno Chicken Fiesta--medium--non-veg--320
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 66--jalapeno Chicken Fiesta--large--non-veg--360
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 67--Black Olives Chicken Fiesta--regular--non-veg--320
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 68--Black Olives Chicken Fiesta--medium--non-veg--360
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 69--Black Olives Chicken Fiesta--large--non-veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 70--Extra Cheese Chicken Fiesta--regular--non-veg--350
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 71--Extra Cheese Chicken Fiesta--medium--non-veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 72--Extra Cheese Chicken Fiesta--large--non-veg--450
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 73--mozerrella Smoked Chicken--regular--non-veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 74--mozerrella Smoked Chicken--medium--non-veg--450
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 75--mozerrella Smoked Chicken--large--non-veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 76--jalapeno Smoked Chicken--regular--non-veg--425
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 77--jalapeno Smoked Chicken--medium--non-veg--475
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 78--jalapeno Smoked Chicken--large--non-veg--525
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 79--Black Olives Smoked Chicken--regular--non-veg--450
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 80--Black Olives Smoked Chicken--medium--non-veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 81--Black Olives Smoked Chicken--large--non-veg--550
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 82--Extra Cheese Smoked Chicken--regular--non-veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 83--Extra Cheese Smoked Chicken--medium--non-veg--550
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 84--Extra Cheese Smoked Chicken--large--non-veg--600
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 85--mozerrella Chicken Exotic--regular--non-veg--450
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 86--mozerrella Chicken Exotic--medium--non-veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 87--mozerrella Chicken Exotic--large--non-veg--550
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 88--jalapeno Chicken Exotic--regular--non-veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 89--jalapeno Chicken Exotic--medium--non-veg--550
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 90--jalapeno Chicken Exotic--large--non-veg--600
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 91--Black Olives Chicken Exotic--regular--non-veg--550
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 92--Black Olives Chicken Exotic--medium--non-veg--600
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 93--Black Olives Chicken Exotic--large--non-veg--650
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 94--Extra Cheese Chicken Exotic--regular--non-veg--600
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 95--Extra Cheese Chicken Exotic--medium--non-veg--660
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 96--Extra Cheese Chicken Exotic--large--non-veg--720
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 97--Double Chicken pizza--regular--500--700
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 98--ffsdfsdf--regular--veg--400
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 99--xxl pizza--medium--non veg--500
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 100--matar panner pizza--medium--veg--700
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 101--jgvvhfcjbh--regular--hfchvg--123
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 102--tanduri pizza--medium--veg--350
+  2023-01-20 01:56:57 INFO  PizzaService:166 - 106--asdfghjkl--regular--veg--123
+  2023-01-20 01:56:57 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 02:00:46 INFO  Application:265 - Press 1 for Pizza
+  2023-01-20 02:00:46 INFO  Application:266 - Press 2 for Beverages
+  2023-01-20 02:00:46 INFO  Application:267 - Press 3 for Cookie
+  2023-01-20 02:00:49 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 02:00:49 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 02:00:49 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 02:00:49 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 02:00:49 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 02:00:49 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 02:00:52 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 02:01:26 INFO  Application:265 - Press 1 for Pizza
+  2023-01-20 02:01:26 INFO  Application:266 - Press 2 for Beverages
+  2023-01-20 02:01:26 INFO  Application:267 - Press 3 for Cookie
+  2023-01-20 02:01:32 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 02:01:32 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 02:01:32 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 02:01:32 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 02:01:32 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 02:01:32 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 02:01:34 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 02:02:30 INFO  Application:265 - Press 1 for Pizza
+  2023-01-20 02:02:30 INFO  Application:266 - Press 2 for Beverages
+  2023-01-20 02:02:30 INFO  Application:267 - Press 3 for Cookie
+  2023-01-20 02:02:31 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 02:02:31 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 02:02:31 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 02:02:31 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 02:02:31 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 02:02:31 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 02:02:35 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 02:09:43 INFO  Application:265 - Press 1 for Pizza
+  2023-01-20 02:09:43 INFO  Application:266 - Press 2 for Beverages
+  2023-01-20 02:09:43 INFO  Application:267 - Press 3 for Cookie
+  2023-01-20 02:09:44 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 02:09:44 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 02:09:44 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 02:09:44 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 02:09:44 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 02:09:44 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 02:09:46 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 02:10:27 INFO  Application:265 - Press 1 for Pizza
+  2023-01-20 02:10:27 INFO  Application:266 - Press 2 for Beverages
+  2023-01-20 02:10:27 INFO  Application:267 - Press 3 for Cookie
+  2023-01-20 02:10:28 INFO  ItemMessage:11 - *********PIZZA MENU*********
+  2023-01-20 02:10:28 INFO  ItemMessage:12 - Press 1 to enter Pizza Details
+  2023-01-20 02:10:28 INFO  ItemMessage:13 - Press 2 to update Pizza Details
+  2023-01-20 02:10:28 INFO  ItemMessage:14 - Press 3 to delete Pizza Details
+  2023-01-20 02:10:28 INFO  ItemMessage:15 - Press 4 to select Pizza details
+  2023-01-20 02:10:28 INFO  ItemMessage:16 - Press 5 to EXIT
+  2023-01-20 02:10:30 INFO  Application:52 - if you want to continue 1 otherwise 0
+  2023-01-20 11:09:40 INFO  Menu:24 - Press 1 for Pizza
+  2023-01-20 11:09:40 INFO  Menu:25 - Press 2 for Beverages
+  2023-01-20 11:09:40 INFO  Menu:26 - Press 3 for Cookie
+  2023-01-20 11:09:46 INFO  Menu:30 - *********PIZZA MENU*********
+  2023-01-20 11:09:46 INFO  Menu:31 - Press 1 to enter Pizza Details
+  2023-01-20 11:09:46 INFO  Menu:32 - Press 2 to update Pizza Details
+  2023-01-20 11:09:46 INFO  Menu:33 - Press 3 to delete Pizza Details
+  2023-01-20 11:09:46 INFO  Menu:34 - Press 4 to select Pizza details
+  2023-01-20 11:09:46 INFO  Menu:35 - Press 5 to EXIT
+  2023-01-20 11:09:48 INFO  Menu:66 - if you want to continue 1 otherwise 0
+  2023-01-20 11:10:03 INFO  Menu:30 - *********PIZZA MENU*********
+  2023-01-20 11:10:03 INFO  Menu:31 - Press 1 to enter Pizza Details
+  2023-01-20 11:10:03 INFO  Menu:32 - Press 2 to update Pizza Details
+  2023-01-20 11:10:03 INFO  Menu:33 - Press 3 to delete Pizza Details
+  2023-01-20 11:10:03 INFO  Menu:34 - Press 4 to select Pizza details
+  2023-01-20 11:10:03 INFO  Menu:35 - Press 5 to EXIT
+  2023-01-20 11:11:23 INFO  Menu:24 - Press 1 for Pizza
+  2023-01-20 11:11:23 INFO  Menu:25 - Press 2 for Beverages
+  2023-01-20 11:11:23 INFO  Menu:26 - Press 3 for Cookie
+  2023-01-20 11:11:26 INFO  Menu:39 - *********BEVERAGE MENU*********
+  2023-01-20 11:11:26 INFO  Menu:40 - Press 1 to enter Beverage Details
+  2023-01-20 11:11:26 INFO  Menu:41 - Press 2 to update Beverage Details
+  2023-01-20 11:11:26 INFO  Menu:42 - Press 3 to delete Beverage Details
+  2023-01-20 11:11:26 INFO  Menu:43 - Press 4 to select Beverage details
+  2023-01-20 11:11:26 INFO  Menu:44 - Press 5 to EXIT
+  2023-01-20 11:11:30 INFO  Menu:212 - Enter Beverage name: 
+  2023-01-20 11:11:50 INFO  Menu:214 - Enter beverage type : Hot/Cold 
+  2023-01-20 11:11:53 INFO  Menu:216 - Enter Beverage price : 
+  2023-01-20 11:11:57 INFO  BeverageDaoImpl:31 - Details Inserted Sucessfully
+  2023-01-20 11:11:57 INFO  Menu:73 - if you want to continue 1 otherwise 0
+  2023-01-20 11:12:00 INFO  Menu:39 - *********BEVERAGE MENU*********
+  2023-01-20 11:12:00 INFO  Menu:40 - Press 1 to enter Beverage Details
+  2023-01-20 11:12:00 INFO  Menu:41 - Press 2 to update Beverage Details
+  2023-01-20 11:12:00 INFO  Menu:42 - Press 3 to delete Beverage Details
+  2023-01-20 11:12:00 INFO  Menu:43 - Press 4 to select Beverage details
+  2023-01-20 11:12:00 INFO  Menu:44 - Press 5 to EXIT
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 1--tea--hot--20
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 2--coffee--hot--30
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 3--Hot Choclate--hot--50
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 4--sprite--cold--25
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 5--coke--cold--30
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 6--Pepsi--cold--35
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 7--Thumbsup--cold--40
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 8--latte--cold--60
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 11--gv cdhqwe--hot--23
+  2023-01-20 11:12:04 INFO  BeverageDaoImpl:103 - 12--RedBull--cold--95
+  2023-01-20 11:12:04 INFO  Menu:73 - if you want to continue 1 otherwise 0
+  2023-01-20 11:12:07 INFO  Menu:39 - *********BEVERAGE MENU*********
+  2023-01-20 11:12:07 INFO  Menu:40 - Press 1 to enter Beverage Details
+  2023-01-20 11:12:07 INFO  Menu:41 - Press 2 to update Beverage Details
+  2023-01-20 11:12:07 INFO  Menu:42 - Press 3 to delete Beverage Details
+  2023-01-20 11:12:07 INFO  Menu:43 - Press 4 to select Beverage details
+  2023-01-20 11:12:07 INFO  Menu:44 - Press 5 to EXIT
+  2023-01-20 11:13:32 INFO  Menu:24 - Press 1 for Pizza
+  2023-01-20 11:13:32 INFO  Menu:25 - Press 2 for Beverages
+  2023-01-20 11:13:32 INFO  Menu:26 - Press 3 for Cookie
+  2023-01-20 11:13:49 INFO  Menu:49 - *********COOKIE MENU*********
+  2023-01-20 11:13:49 INFO  Menu:50 - Press 1 to enter Cookie Details
+  2023-01-20 11:13:49 INFO  Menu:51 - Press 2 to update Cookie Details
+  2023-01-20 11:13:49 INFO  Menu:52 - Press 3 to delete Cookie Details
+  2023-01-20 11:13:49 INFO  Menu:53 - Press 4 to select Cookie details
+  2023-01-20 11:13:49 INFO  Menu:54 - Press 5 to EXIT
+  2023-01-20 11:13:53 INFO  Menu:145 - Enter Cookie name: 
+  2023-01-20 11:14:08 INFO  Menu:147 - Enter Cookie Price: 
+  2023-01-20 11:14:11 INFO  CookieDaoImpl:34 - Details Inserted Sucessfully
+  2023-01-20 11:14:11 INFO  Menu:80 - if you want to continue 1 otherwise 0
+  
